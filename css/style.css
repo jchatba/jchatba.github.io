@@ -2,10 +2,16 @@
 body {
 	width:100%;
 	height:100%;
-	font-family:Open Sans,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family:Courgette-Regular;
 	color:#fff;
-	background-color:#000;
+	background-color:#1300a3;
 	 font-weight:300;
+}
+.fond-footer{
+    background-color:#1300a3;
+}
+.fond {
+    background-color: #e3ffff;
 }
 html {
 	width:100%;
@@ -47,7 +53,9 @@ a:hover,a:focus {
 	margin-bottom:0;
 	border-bottom:1px solid rgba(255,255,255,.3);
 	text-transform:uppercase;
-	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: 'Bebas Neue', cursive;
+        font-family: 'Courgette', cursive;
+        font-family: 'Secular One', sans-serif;
 	background-color:#000;
 }
 .navbar-custom .navbar-brand {
@@ -314,21 +322,21 @@ p.lead {
 	line-height:1.9;
 }
 .btnghost {
-	border:2px solid #333;
+	border:2px solid #424159;
 	background-color:transparent;
 	padding:15px 20px;
 	letter-spacing:3px;
 	font-size:12px;
 	text-transform:uppercase;
 	font-weight:400;
-	color:#333;
+	color:#424159;
 	margin-top:20px;
 	display:inline-block;
 }
 .btnghost:hover {
-	background-color:#333;
+	background-color:#1300a3;
 	color:#fff;
-	border:2px solid #333;
+	border:2px solid #424159;
 }
 .bgcover {
 	background-size:cover;
