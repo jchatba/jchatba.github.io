@@ -103,6 +103,12 @@ a:hover,a:focus {
 .navbar-custom .nav li.active a:hover {
 	color:#1ba39c;
 }
+
+.navbar.scrolled {
+	/* Styles de la navbar défilée */
+	color: black;
+}
+
 @media(min-width:768px) {
 	.navbar-custom {
 		padding:20px 0;
