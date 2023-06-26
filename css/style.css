@@ -351,30 +351,22 @@ img {
 	max-width:100%;
 }
 .gallery ul {
-	padding: 0;
-	margin: 0;
-	display: flex;
-	justify-content: space-between;
-	flex-wrap: wrap;
+	padding:0;
+	margin:0;
 }
-
-.gallery ul li {
-	margin: 0;
-	position: relative;
-	list-style: none;
-	flex-basis: 25%;
-	padding: 0;
-}
-
 .gallery img {
-	width: 200px;
-	height: 200px;
-	object-fit: cover;
-	object-position: center;
+	max-width:100%;
+	height:auto;
+	padding:0;
+	margin:0;
 }
-
-
-
+.gallery ul li {
+	margin:0;
+	position:relative;
+	list-style:none;
+	float:left;
+	padding:0;
+}
 .gallery ul li a {
 	display:block;
 	position:relative;
@@ -418,6 +410,7 @@ img {
 .gallery ul li a:hover:after {
 	opacity:1;
 }
+
 section:after {
 	float:none;
 	clear:both;
