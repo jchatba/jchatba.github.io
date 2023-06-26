@@ -105,7 +105,7 @@ a:hover,a:focus {
 }
 
 .navbar.scrolled {
-	/* Styles de la navbar défilée */
+	background-color: whitesmoke;
 	color: black;
 }
 
