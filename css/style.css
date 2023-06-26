@@ -367,7 +367,7 @@ img {
 }
 
 .gallery img {
-	width: 100%; /* Remplacez cette valeur par la largeur souhaitée */
+	width: 200px; 
 	height: auto;
 	object-fit: cover;
 	object-position: center;
