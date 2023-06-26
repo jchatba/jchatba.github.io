@@ -355,10 +355,10 @@ img {
 	margin:0;
 }
 .gallery img {
-	max-width:100%;
-	height:auto;
-	padding:0;
-	margin:0;
+	max-width: 100%;
+	height: auto;
+	object-fit: cover;
+	object-position: center;
 }
 .gallery ul li {
 	margin:0;
