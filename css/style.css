@@ -365,7 +365,6 @@ img {
 	flex-basis: 25%;
 	padding: 0;
 	display: flex; /* Ajout de cette règle pour créer un contexte de flexbox */
-	align-items: center; /* Ajout de cette règle pour centrer verticalement l'image */
 }
 
 .gallery img {
