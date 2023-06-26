@@ -354,12 +354,7 @@ img {
 	padding:0;
 	margin:0;
 }
-.gallery img {
-	max-width:100%;
-	height:auto;
-	padding:0;
-	margin:0;
-}
+
 .gallery ul li {
 	margin:0;
 	position:relative;
