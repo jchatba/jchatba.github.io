@@ -364,11 +364,10 @@ img {
 	list-style: none;
 	flex-basis: 25%;
 	padding: 0;
-	display: flex; /* Ajout de cette règle pour créer un contexte de flexbox */
 }
 
 .gallery img {
-	width: 200px; /* Remplacez cette valeur par la largeur souhaitée */
+	width: 200px;
 	height: 200px;
 	object-fit: cover;
 	object-position: center;
@@ -379,7 +378,6 @@ img {
 	display: block;
 	padding-top: 100%; /* Ratio hauteur/largeur de 1:1 (100% / 100%) */
 }
-
 
 .gallery ul li a {
 	display:block;
