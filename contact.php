@@ -19,7 +19,7 @@ if (!$comment) $errors[count($errors)] = 'Merci d\'entrer un message';
 if (!$errors) {
 
     //destinataire
-    $to = 'quentinlacpro@gmail.com';
+    $to = 'jchatba@gmail.com';
     //expéditeur
     $from = $name . ' <' . $email . '>';
 
