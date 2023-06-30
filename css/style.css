@@ -454,7 +454,7 @@ section {
 	display:inline-block;
 }
 #contactform input#submit:hover {
-	background-color:#333;
+	background-color:#1300a3;
 	color:#fff;
 	border:2px solid #333;
 }
